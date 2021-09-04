@@ -43,18 +43,18 @@
     "1006": {
         "id": "1006",
         "name": "乐天派",
-        "description": "快乐+1",
+        "description": "快乐+5",
         "grade": 0,
         "effect": {
-            "SPR": 1
+            "SPR": 5
         }
     },
     "1007": {
         "id": "1007",
-        "name": "天赋异禀",
-        "description": "初始可用属性点+2",
+        "name": "天赋异禀++",
+        "description": "初始可用属性点+20",
         "grade": 1,
-        "status": 2
+        "status": 20
     },
     "1008": {
         "id": "1008",
@@ -68,10 +68,10 @@
     "1009": {
         "id": "1009",
         "name": "网络巨魔",
-        "description": "快乐+2",
+        "description": "快乐+4",
         "grade": 1,
         "effect": {
-            "SPR": 2
+            "SPR": 4
         }
     },
     "1010": {
